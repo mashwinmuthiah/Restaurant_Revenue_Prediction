@@ -17,4 +17,4 @@ Type: Type of the restaurant. FC: Food Court, IL: Inline, DT: Drive Thru, MB: Mo
 P1, P2 - P37: There are three categories of these obfuscated data. Demographic data are gathered from third party providers with GIS systems. These include population in any given area, age and gender distribution, development scales. Real estate data mainly relate to the m2 of the location, front facade of the location, car park availability. Commercial data mainly include the existence of points of interest including schools, banks, other QSR operators.
 Revenue: The revenue column indicates a (transformed) revenue of the restaurant in a given year and is the target of predictive analysis. Please note that the values are transformed so they don't mean real dollar values. 
 
-![Drag Racing](Dragster.jpg)
+![Tab Food Investment](front_page.png)
